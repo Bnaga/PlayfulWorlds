@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "building playfull worlds.Plugins", "building playfull worlds.Plugins.csproj", "{D0C00830-C5AE-C57F-4CA3-E38B9B4617D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "building playfull worlds.Editor.Plugins", "building playfull worlds.Editor.Plugins.csproj", "{0521600B-2523-A8D2-DE51-9EF4B8F4B820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C00830-C5AE-C57F-4CA3-E38B9B4617D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C00830-C5AE-C57F-4CA3-E38B9B4617D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C00830-C5AE-C57F-4CA3-E38B9B4617D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C00830-C5AE-C57F-4CA3-E38B9B4617D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0521600B-2523-A8D2-DE51-9EF4B8F4B820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0521600B-2523-A8D2-DE51-9EF4B8F4B820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0521600B-2523-A8D2-DE51-9EF4B8F4B820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0521600B-2523-A8D2-DE51-9EF4B8F4B820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
